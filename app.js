@@ -1,3 +1,5 @@
+//----- aca me da el error
+
 const inputNombre = document.querySelector('#user')
 const inputApellido = document.querySelector('#apellido')
 const divBienvenida = document.querySelector('#bienvenida')
@@ -20,6 +22,7 @@ botonIngresar.onclick = () => {
     }  
 }
 
+// --------------
 
 
 const stockProductos = [
